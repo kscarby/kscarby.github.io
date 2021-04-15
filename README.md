@@ -1,1 +1,3 @@
-Project Musidot
+PROJETO MUSICDOT
+
+Desenvolvimento Web com HTML, CSS e JAVASCRIPT
